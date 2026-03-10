@@ -75,10 +75,10 @@ HTML Website
 ### Apache Default Web Page
 ![Apache Page](screenshots/05_apache_default_page.png)
 
-### Navigating Web Directory
+### Editing Index File
 ![Directory](screenshots/06_html_directory_navigation.png)
 
-### Editing Website File
+### Custom Website Page
 ![Editing File](screenshots/07_editing_index_file.png)
 
 ### Process Monitoring
