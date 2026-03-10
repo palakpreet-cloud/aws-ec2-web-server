@@ -76,10 +76,10 @@ HTML Website
 ![Apache Page](screenshots/05_apache_default_page.png)
 
 ### Editing Index File
-![Directory](screenshots/06_html_directory_navigation.png)
+![Directory](screenshots/06_editing_index_file.png)
 
 ### Custom Website Page
-![Editing File](screenshots/07_editing_index_file.png)
+![Editing File](screenshots/07_custom_website_page.png)
 
 ### Process Monitoring
 ![Top Command](screenshots/08_process_monitoring_top.png)
